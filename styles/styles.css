@@ -45,11 +45,11 @@ ul li a{
   }  
   
 .container {
-    padding: 10px;
+    padding: 20px;
     display: flex;
     flex-direction: column;
     height: 100vh;
-    gap: 10px;
+    gap: 8px;
     background-color: #000000;
 }
 .top-left {
@@ -74,10 +74,7 @@ p{
     background: #37aaa1;
     font-size: 150%;
 }
-.img{
-    width: 100%;
-    height: auto;
-}
+
 .active{
     background: #37aaa1;
     font-size: 150%;
@@ -95,4 +92,9 @@ p{
 .image{
     width: 100%;
     height: auto;
+}
+
+#homeimg{
+width: 50%;
+height: auto;
 }
